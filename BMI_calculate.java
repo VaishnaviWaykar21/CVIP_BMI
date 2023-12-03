@@ -1,6 +1,6 @@
 import java.io.*; 
 import java.util.*;
-class GFG 
+class BMI_calculate
 { 
     public static double BMI(double height, double weight) 
     { 
